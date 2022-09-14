@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "quiz": "apps/quiz",
+    "quiz-e2e": "apps/quiz-e2e"
+  }
+}
